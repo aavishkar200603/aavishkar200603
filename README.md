@@ -1,8 +1,8 @@
 # Hi, I'm Aavishkar Pawar 👋
 
-## DevOps | Cloud | Backend Engineering
+## Full Stack | DevOps | Cloud Engineering
 
-Passionate about building production-style cloud-native systems with Kubernetes, Infrastructure as Code, CI/CD automation, observability, and scalable backend architectures.
+Passionate about building production-style full-stack and cloud-native systems with Kubernetes, Infrastructure as Code, CI/CD automation, observability, scalable backend services, and real-time applications.
 
 ---
 
@@ -13,7 +13,7 @@ Passionate about building production-style cloud-native systems with Kubernetes,
 - Cloud-Native Architecture
 - Event-Driven Systems
 - CI/CD Automation
-- Backend Engineering
+- Full-Stack Engineering
 - AWS Infrastructure
 
 ---
@@ -35,8 +35,9 @@ Passionate about building production-style cloud-native systems with Kubernetes,
 
 ---
 
-## Backend & Infrastructure
+## Full Stack & Infrastructure
 
+- React.js
 - Node.js
 - Express.js
 - MongoDB
@@ -71,6 +72,7 @@ Production-style real-time chat platform demonstrating hybrid Kubernetes deploym
 
 ### Key Highlights
 
+- React + Node.js real-time full-stack application
 - Hybrid Kubernetes deployment architecture (EKS + k3s)
 - Terraform-based Infrastructure as Code
 - Multi-repository GitHub Actions CI/CD pipelines
@@ -96,7 +98,8 @@ Production-style event-driven platform demonstrating asynchronous processing, CI
 
 ### Key Highlights
 
-- Dockerized multi-service deployment
+- React + Node.js multi-service architecture
+- Dockerized deployment workflows
 - Jenkins + Ansible CI/CD automation
 - BullMQ + Redis event-driven workers
 - AWS SQS + Lambda migration workflows
@@ -110,15 +113,6 @@ Production-style event-driven platform demonstrating asynchronous processing, CI
 ### Architecture Repository
 
 - https://github.com/aavishkar200603/edtech-platform-devops-architecture
-
----
-
-# GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aavishkar200603&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aavishkar200603&hide_border=true" height="180em"/>
-</p>
 
 ---
 
