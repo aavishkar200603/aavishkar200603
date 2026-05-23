@@ -2,18 +2,19 @@
 
 ## DevOps | Cloud | Backend Engineering
 
-Passionate about building production-style cloud-native systems with CI/CD automation, event-driven architectures, infrastructure orchestration, and scalable backend services.
+Passionate about building production-style cloud-native systems with Kubernetes, Infrastructure as Code, CI/CD automation, observability, and scalable backend architectures.
 
 ---
 
 # Current Focus
 
-- DevOps Engineering
+- Kubernetes & Cloud Infrastructure
+- DevOps & Platform Engineering
 - Cloud-Native Architecture
 - Event-Driven Systems
-- Backend Infrastructure
 - CI/CD Automation
-- AWS Services
+- Backend Engineering
+- AWS Infrastructure
 
 ---
 
@@ -22,67 +23,93 @@ Passionate about building production-style cloud-native systems with CI/CD autom
 ## DevOps & Cloud
 
 - Docker
-- Jenkins
-- Ansible
 - Kubernetes
 - Terraform
-- AWS
-- Nginx
 - GitHub Actions
+- Jenkins
+- Ansible
+- Prometheus
+- Grafana
+- NGINX
+- AWS
 
-## Backend
+---
+
+## Backend & Infrastructure
 
 - Node.js
 - Express.js
 - MongoDB
 - Redis
 - BullMQ
+- Socket.IO
 - REST APIs
+
+---
 
 ## AWS Services
 
+- EKS
 - EC2
+- VPC
 - IAM
+- Route53
+- ECR
+- S3
+- DynamoDB
 - SQS
 - Lambda
 - CloudWatch
-- S3
 
 ---
 
 # Featured Projects
 
-## Event-Driven EdTech Platform
+## Hybrid Kubernetes Real-Time Chat Platform with Production-Style Infrastructure
 
-Production-style event-driven architecture implementing:
+Production-style real-time chat platform demonstrating hybrid Kubernetes deployments across Amazon EKS and lightweight k3s environments.
 
-- Dockerized deployment
-- Jenkins CI/CD
-- Ansible orchestration
-- BullMQ + Redis workers
-- AWS SQS + Lambda migration
-- HTTPS custom domain deployment
+### Key Highlights
 
-Live Demo:
+- Hybrid Kubernetes deployment architecture (EKS + k3s)
+- Terraform-based Infrastructure as Code
+- Multi-repository GitHub Actions CI/CD pipelines
+- NGINX Ingress with HTTPS/TLS termination
+- Prometheus + Grafana observability stack
+- AWS ECR + DockerHub deployment workflows
+- Kubernetes rolling deployments and health probes
+- Production-style ingress networking and monitoring
 
-- https://edtech.aavishkar.online
+### Live Demo
 
-Architecture Repository:
+- https://chat.aavishkar.online
 
-- https://github.com/aavishkar200603/edtech-platform-devops-architecture
+### Architecture Repository
+
+- https://github.com/aavishkar200603/realtime-chat-platform-devops-architecture
 
 ---
 
-## Real-Time Chat Platform
+## Event-Driven EdTech Platform with CI/CD and Cloud-Native Architecture
 
-Production-grade real-time chat platform featuring:
+Production-style event-driven platform demonstrating asynchronous processing, CI/CD automation, infrastructure orchestration, and cloud-native migration workflows.
 
-- Kubernetes deployments
-- Hybrid k3s + EKS architecture
-- Terraform infrastructure
-- Prometheus monitoring
-- Grafana dashboards
-- HTTPS ingress setup
+### Key Highlights
+
+- Dockerized multi-service deployment
+- Jenkins + Ansible CI/CD automation
+- BullMQ + Redis event-driven workers
+- AWS SQS + Lambda migration workflows
+- HTTPS custom domain deployment
+- Background analytics processing
+
+### Live Demo
+
+- https://edtech.aavishkar.online
+
+### Architecture Repository
+
+- https://github.com/aavishkar200603/edtech-platform-devops-architecture
 
 ---
 
