@@ -115,7 +115,9 @@ Production-style event-driven platform demonstrating asynchronous processing, CI
 
 # GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aavishkar200603&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aavishkar200603&show_icons=true&cache_seconds=1800" />
+</p>
 
 ---
 
