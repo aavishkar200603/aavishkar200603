@@ -1,8 +1,8 @@
 # Hi, I'm Aavishkar Pawar 👋
 
-## Full Stack | DevOps | Cloud Engineering
+## AI-Powered Full Stack | DevOps | Cloud Engineering
 
-Passionate about building production-style full-stack and cloud-native systems with Kubernetes, Infrastructure as Code, CI/CD automation, observability, scalable backend services, and real-time applications.
+Passionate about building production-style full stack and cloud-native systems with Kubernetes, Infrastructure as Code, CI/CD automation, observability, scalable backend services, real-time applications, and AI-integrated workflows.
 
 ---
 
@@ -45,6 +45,8 @@ Passionate about building production-style full-stack and cloud-native systems w
 - BullMQ
 - Socket.IO
 - REST APIs
+- .NET / C#
+- GraphQL
 
 ---
 
