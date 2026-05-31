@@ -118,5 +118,5 @@ Production-style event-driven platform demonstrating asynchronous processing, CI
 
 # Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/aavishkar-pawar-975748249/
+- LinkedIn: https://www.linkedin.com/in/aavishkarpawar
 - GitHub: https://github.com/aavishkar200603
