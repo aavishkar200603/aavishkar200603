@@ -1,26 +1,41 @@
 # Hi, I'm Aavishkar Pawar 👋
 
-## AI-Augmented Full Stack | DevOps | Cloud Engineering
+## Full Stack Engineer | Cloud & DevOps Engineer
 
-Passionate about building production-style full stack and cloud-native systems with Kubernetes, Infrastructure as Code, CI/CD automation, observability, scalable backend services, real-time applications, and AI-integrated workflows.
+Passionate about building production-grade full-stack applications, cloud-native systems, event-driven architectures, CI/CD automation, and scalable backend services using modern web technologies and AWS cloud infrastructure.
 
 ---
 
 # Current Focus
 
-- Kubernetes & Cloud Infrastructure
-- DevOps & Platform Engineering
+- Full-Stack Application Development
 - Cloud-Native Architecture
+- Kubernetes & Container Orchestration
 - Event-Driven Systems
 - CI/CD Automation
-- Full-Stack Engineering
-- AWS Infrastructure
+- Backend Engineering
+- AWS Cloud Infrastructure
 
 ---
 
 # Tech Stack
 
-## DevOps & Cloud
+## Full Stack Development
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Redis
+- Socket.IO
+- BullMQ
+- REST APIs
+- GraphQL
+- .NET / C#
+
+---
+
+## Cloud & DevOps
 
 - Docker
 - Kubernetes
@@ -32,21 +47,6 @@ Passionate about building production-style full stack and cloud-native systems w
 - Grafana
 - NGINX
 - AWS
-
----
-
-## Full Stack & Infrastructure
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Redis
-- BullMQ
-- Socket.IO
-- REST APIs
-- .NET / C#
-- GraphQL
 
 ---
 
@@ -68,21 +68,21 @@ Passionate about building production-style full stack and cloud-native systems w
 
 # Featured Projects
 
-## Hybrid Kubernetes Real-Time Chat Platform with Production-Style Infrastructure
+## Production-Grade Real-Time Chat Platform
 
-Production-style real-time chat platform demonstrating hybrid Kubernetes deployments across Amazon EKS and lightweight k3s environments.
+Full-stack real-time messaging platform built using React.js, Node.js, MongoDB, and Socket.IO with production-style cloud-native deployment across Amazon EKS and lightweight k3s Kubernetes environments.
 
 ### Key Highlights
 
-- React + Node.js real-time full-stack application
-- Hybrid Kubernetes deployment architecture (EKS + k3s)
-- Terraform-based Infrastructure as Code
-- Multi-repository GitHub Actions CI/CD pipelines
-- NGINX Ingress with HTTPS/TLS termination
-- Prometheus + Grafana observability stack
-- AWS ECR + DockerHub deployment workflows
-- Kubernetes rolling deployments and health probes
-- Production-style ingress networking and monitoring
+- Real-time messaging with Socket.IO
+- JWT authentication and authorization
+- Online presence and typing indicators
+- React.js + Node.js full-stack architecture
+- Hybrid Kubernetes deployment (EKS + k3s)
+- Terraform Infrastructure as Code
+- GitHub Actions CI/CD automation
+- NGINX Ingress with HTTPS/TLS
+- Prometheus + Grafana observability
 
 ### Live Demo
 
@@ -90,23 +90,24 @@ Production-style real-time chat platform demonstrating hybrid Kubernetes deploym
 
 ### Architecture Repository
 
-- https://github.com/aavishkar200603/realtime-chat-platform-devops-architecture
+- https://github.com/aavishkar200603/realtime-chat-platform-architecture
 
 ---
 
-## Event-Driven EdTech Platform with CI/CD and Cloud-Native Architecture
+## Event-Driven EdTech Learning Platform
 
-Production-style event-driven platform demonstrating asynchronous processing, CI/CD automation, infrastructure orchestration, and cloud-native migration workflows.
+Full-stack learning platform built using React.js, Node.js, MongoDB, Redis, and BullMQ demonstrating event-driven architecture, asynchronous processing, CI/CD automation, and AWS-native migration patterns.
 
 ### Key Highlights
 
-- React + Node.js multi-service architecture
-- Dockerized deployment workflows
-- Jenkins + Ansible CI/CD automation
-- BullMQ + Redis event-driven workers
-- AWS SQS + Lambda migration workflows
-- HTTPS custom domain deployment
-- Background analytics processing
+- Course creation and publishing workflows
+- Student enrollment and learning experience
+- Progress tracking and analytics generation
+- React.js + Node.js full-stack architecture
+- BullMQ + Redis event-driven processing
+- Jenkins + Ansible deployment automation
+- AWS SQS + Lambda migration architecture
+- CloudWatch monitoring and SNS alerting
 
 ### Live Demo
 
@@ -114,7 +115,7 @@ Production-style event-driven platform demonstrating asynchronous processing, CI
 
 ### Architecture Repository
 
-- https://github.com/aavishkar200603/edtech-platform-devops-architecture
+- https://github.com/aavishkar200603/edtech-platform-architecture
 
 ---
 
