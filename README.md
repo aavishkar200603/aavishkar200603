@@ -1,8 +1,8 @@
 # Hi, I'm Aavishkar Pawar 👋
 
-## Full Stack Engineer | Cloud & DevOps Engineer
+## Full Stack Developer | AWS | DevOps | AI
 
-Passionate about building production-grade full-stack applications, cloud-native systems, event-driven architectures, CI/CD automation, and scalable backend services using modern web technologies and AWS cloud infrastructure.
+Passionate about building production-grade full-stack applications, cloud-native systems, event-driven architectures, CI/CD automation, scalable backend services, real-time platforms, and AI-augmented workflows.
 
 ---
 
@@ -15,6 +15,7 @@ Passionate about building production-grade full-stack applications, cloud-native
 - CI/CD Automation
 - Backend Engineering
 - AWS Cloud Infrastructure
+- AI-Augmented Applications
 
 ---
 
@@ -70,14 +71,18 @@ Passionate about building production-grade full-stack applications, cloud-native
 
 ## Production-Grade Real-Time Chat Platform
 
-Full-stack real-time messaging platform built using React.js, Node.js, MongoDB, and Socket.IO with production-style cloud-native deployment across Amazon EKS and lightweight k3s Kubernetes environments.
+Full-stack real-time messaging platform built using React.js, Node.js, MongoDB, and Socket.IO.
+
+The project demonstrates production-style deployment across Amazon EKS and lightweight k3s Kubernetes environments using Terraform Infrastructure as Code, GitHub Actions CI/CD automation, HTTPS/TLS networking, and Prometheus/Grafana observability.
 
 ### Key Highlights
 
 - Real-time messaging with Socket.IO
 - JWT authentication and authorization
-- Online presence and typing indicators
+- Online presence tracking
+- Typing indicators and emoji reactions
 - React.js + Node.js full-stack architecture
+- MongoDB persistent chat storage
 - Hybrid Kubernetes deployment (EKS + k3s)
 - Terraform Infrastructure as Code
 - GitHub Actions CI/CD automation
@@ -96,15 +101,21 @@ Full-stack real-time messaging platform built using React.js, Node.js, MongoDB, 
 
 ## Event-Driven EdTech Learning Platform
 
-Full-stack learning platform built using React.js, Node.js, MongoDB, Redis, and BullMQ demonstrating event-driven architecture, asynchronous processing, CI/CD automation, and AWS-native migration patterns.
+Full-stack learning platform built using React.js, Node.js, MongoDB, Redis, and BullMQ.
+
+The platform enables instructors to publish courses and learners to consume educational content through course catalogs, video learning experiences, progress tracking, ratings, reviews, and analytics-driven insights.
+
+The project demonstrates event-driven architecture patterns, asynchronous processing workflows, Jenkins-based CI/CD automation, and migration from self-managed workers to AWS-native event processing using Amazon SQS and AWS Lambda.
 
 ### Key Highlights
 
 - Course creation and publishing workflows
 - Student enrollment and learning experience
 - Progress tracking and analytics generation
+- Ratings and reviews
+- JWT authentication and authorization
 - React.js + Node.js full-stack architecture
-- BullMQ + Redis event-driven processing
+- BullMQ + Redis asynchronous processing
 - Jenkins + Ansible deployment automation
 - AWS SQS + Lambda migration architecture
 - CloudWatch monitoring and SNS alerting
@@ -116,6 +127,19 @@ Full-stack learning platform built using React.js, Node.js, MongoDB, Redis, and 
 ### Architecture Repository
 
 - https://github.com/aavishkar200603/edtech-platform-architecture
+
+---
+
+# Professional Interests
+
+- Full-Stack Engineering
+- Cloud Engineering
+- Kubernetes
+- DevOps & Platform Engineering
+- Event-Driven Architecture
+- Distributed Systems
+- Backend Engineering
+- AI-Augmented Software Development
 
 ---
 
